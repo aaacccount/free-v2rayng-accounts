@@ -9,6 +9,7 @@
 
 ---
 <img src="https://raw.githubusercontent.com/v2ray-ir/free-v2rayng-accounts/refs/heads/main/free_v2ray_config.jpg" alt="خرید اکانت v2rayng" width="512" height="512">
+---
 ## چرا فیلترشکن v2rayng؟  
 
 فیلترشکن v2rayng به دلایل زیر یکی از محبوب‌ترین ابزارهای عبور از محدودیت‌هاست:  
